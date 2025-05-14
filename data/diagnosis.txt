@@ -1,0 +1,14 @@
+1. ADHD Concern
+"This 6-year-old male presents with a clinical picture suggestive of Attention Deficit Hyperactivity Disorder, combined type. He demonstrates persistent inattention and hyperactivity both at home and in school settings, with symptom duration exceeding six months. There are no associated mood or sleep disturbances at this time. A formal psychiatric evaluation is warranted."
+
+2. Recurrent Wheezing
+"This 5-year-old female is experiencing recurrent wheezing episodes, most commonly triggered by viral illnesses. Examination today revealed mild expiratory wheeze without signs of acute respiratory distress. Given the pattern and response to bronchodilators, viral-induced wheeze is most likely. Asthma remains a differential if episodes persist."
+
+3. Failure to Gain Weight
+"This 18-month-old female presents with failure to gain adequate weight over the past 6 months, now dropping to the 5th percentile for weight. Growth parameters and activity level are otherwise appropriate. No clinical signs of malabsorption or systemic illness. Diagnosis leans toward nutritional insufficiency secondary to prolonged breastfeeding with inadequate complementary feeding."
+
+4. Sample Pediatric Diagnosis
+"The patient is a 4-year-old male presenting with a three-day history of fever, nasal congestion, and productive cough. Physical examination reveals mild pharyngeal erythema, clear nasal discharge, and bilateral wheezing on auscultation. No signs of respiratory distress. Chest X-ray is normal. Diagnosis is acute viral upper respiratory tract infection, likely rhinovirus. No evidence of bacterial infection. Recommend supportive care with antipyretics, hydration, and rest. Follow-up in 3 days if symptoms persist or worsen."
+
+5. Constipation
+"This 5-year-old female presents with a history of infrequent and painful bowel movements over the past several weeks. Parents report stool withholding behavior and passage of hard stools every 4–5 days. No associated vomiting, weight loss, or abdominal distention. On exam, abdomen soft with mild suprapubic fullness, no tenderness. Findings are consistent with functional constipation. No red flags suggesting organic pathology."

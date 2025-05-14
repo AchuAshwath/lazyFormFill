@@ -1,0 +1,112 @@
+1. Developmental Delay
+"This 3-year-old female, born full-term via normal vaginal delivery (delivery_mode), cried immediately at birth (cried_at_birth). She presents with significant delays in language and motor milestones. Currently, she's at the 10th percentile for weight (birth_weight: 12 kg). Clinical observation reveals limited vocabulary and delayed fine motor skills. No postnatal complications reported (postnatal_complications). Diagnosis is suggestive of Global Developmental Delay. The plan includes comprehensive developmental assessments and initiation of early intervention therapies."
+{
+  "sex": "Female",
+  "pedigree": "",
+  "consanguinity": "",
+  "antenatal_history": "",
+  "perinatal_history": "",
+  "conception_mode": "",
+  "delivery_mode": "Normal vaginal delivery",
+  "term": "Full-term",
+  "cried_at_birth": "Yes, cried immediately",
+  "birth_weight": 12,
+  "postnatal_complications": "None",
+  "breastfed_upto": "",
+  "chief_complaint": "Significant delays in language and motor milestones",
+  "clinical_observation": "Limited vocabulary, delayed fine motor skills",
+  "diagnosis": "Global Developmental Delay",
+  "plan": "Comprehensive developmental assessments and initiation of early intervention therapies"
+}
+
+
+2. Autism Spectrum Disorder
+"This 4-year-old male, conceived naturally (conception_mode) with an unremarkable antenatal history (antenatal_history), demonstrates decreased eye contact, repetitive behaviors, and limited social interaction. Pedigree indicates no known family history of similar conditions (pedigree). Birth weight was 3.2 kg (birth_weight). Clinical observation highlights poor response to name and minimal reciprocal play. Findings strongly suggest Autism Spectrum Disorder. Plan involves referral to pediatric neurology, speech therapy, and structured behavioral intervention."
+{
+  "sex": "Male",
+  "pedigree": "No known family history of similar conditions",
+  "consanguinity": "No consanguinity",
+  "antenatal_history": "Unremarkable antenatal history",
+  "perinatal_history": "",
+  "conception_mode": "Natural",
+  "delivery_mode": "",
+  "term": "",
+  "cried_at_birth": "",
+  "birth_weight": 3.2,
+  "postnatal_complications": "",
+  "breastfed_upto": "",
+  "chief_complaint": "Decreased eye contact, repetitive behaviors, limited social interaction",
+  "clinical_observation": "Poor response to name, minimal reciprocal play",
+  "diagnosis": "Autism Spectrum Disorder",
+  "plan": "Referral to pediatric neurology, speech therapy, structured behavioral intervention"
+}
+
+
+3. Speech Delay
+"This 2.5-year-old female presents with parental concerns of expressive speech delay (chief_complaint). She was breastfed exclusively until 6 months (breastfed_upto) and born via emergency C-section (delivery_mode). Perinatal history was complicated by mild neonatal jaundice requiring phototherapy (perinatal_history). Clinical observation shows age-appropriate receptive language but significant expressive delays. No consanguinity (consanguinity). Diagnosis is expressive language delay; recommend speech therapy evaluation and audiology assessment."
+{
+  "sex": "Female",
+  "pedigree": "",
+  "consanguinity": "No consanguinity",
+  "antenatal_history": "",
+  "perinatal_history": "Mild neonatal jaundice requiring phototherapy",
+  "conception_mode": "",
+  "delivery_mode": "Emergency C-section",
+  "term": "",
+  "cried_at_birth": "",
+  "birth_weight": "",
+  "postnatal_complications": "",
+  "breastfed_upto": "6 months",
+  "chief_complaint": "Expressive speech delay",
+  "clinical_observation": "Age-appropriate receptive language but expressive delays",
+  "diagnosis": "Expressive language delay",
+  "plan": "Speech therapy evaluation and audiology assessment"
+}
+
+
+4. Failure to Thrive (with missing fields)
+"This 1-year-old male is not adequately gaining weight, currently at the 3rd percentile for weight. Antenatal and perinatal periods were uneventful. He was exclusively breastfed until recently. Clinical observation reveals no signs of organic disease or malabsorption. Diagnosis points toward nutritional insufficiency due to inadequate complementary feeding. Plan involves nutritional counseling and close growth monitoring."
+{
+  "sex": "Male",
+  "pedigree": "",
+  "consanguinity": "",
+  "antenatal_history": "Uneventful",
+  "perinatal_history": "Uneventful",
+  "conception_mode": "",
+  "delivery_mode": "",
+  "term": "",
+  "cried_at_birth": "",
+  "birth_weight": "",
+  "postnatal_complications": "None observed",
+  "breastfed_upto": "Until recently",
+  "chief_complaint": "Not adequately gaining weight",
+  "clinical_observation": "No signs of organic disease or malabsorption",
+  "diagnosis": "Nutritional insufficiency due to inadequate complementary feeding",
+  "plan": "Nutritional counseling and close growth monitoring"
+}
+
+(Missing: delivery_mode, cried_at_birth)
+
+5. Attention Deficit Hyperactivity Disorder (ADHD) (with missing fields)
+"A 7-year-old male exhibits persistent inattention, impulsivity, and hyperactivity affecting his performance at school and home. He was born at term (term) with no significant antenatal complications. No reported consanguinity. Clinical observation confirms inattentiveness and difficulty following instructions. Diagnosis aligns with Attention Deficit Hyperactivity Disorder, combined type. Plan includes psychological evaluation and possible initiation of behavioral therapy."
+
+(Missing: birth_weight, postnatal_complications)
+{
+  "sex": "Male",
+  "pedigree": "",
+  "consanguinity": "No consanguinity",
+  "antenatal_history": "No significant complications",
+  "perinatal_history": "",
+  "conception_mode": "",
+  "delivery_mode": "",
+  "term": "Full-term",
+  "cried_at_birth": "",
+  "birth_weight": "",
+  "postnatal_complications": "",
+  "breastfed_upto": "",
+  "chief_complaint": "Persistent inattention, impulsivity, hyperactivity",
+  "clinical_observation": "Inattentiveness and difficulty following instructions",
+  "diagnosis": "Attention Deficit Hyperactivity Disorder, combined type",
+  "plan": "Psychological evaluation and possible initiation of behavioral therapy"
+}
+

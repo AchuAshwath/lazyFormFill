@@ -1,0 +1,55 @@
+KEYWORD_MAP = {
+  "conception_mode": {
+    "natural":        "Natural",
+    "naturally":      "Natural",
+    "spontaneous":    "Natural",
+    "assisted":       "Assisted",
+    "ivf":            "Assisted",
+    "IVF":           "Assisted",
+    "in vitro fertilization": "Assisted",
+    "art":            "Assisted",
+    "assisted reproductive technology": "Assisted",
+  },
+  "delivery_mode": {
+    "delivery was normal" : "NVD",
+    "conceived naturally" : "NVD",
+    "nvd":            "NVD",
+    "normal vaginal": "NVD",
+    "spontaneous vaginal": "NVD",
+    "vaginal delivery":   "NVD",
+    "vaginal":       "NVD",
+    "cesarean":      "LSCS",
+    "caesarean":     "LSCS",
+    "c section":     "LSCS",
+    "c-section":     "LSCS",
+    "csection":      "LSCS",
+    "elective c-section": "LSCS",
+    "surgical delivery":  "LSCS",
+    "abdominal delivery": "LSCS",
+    "assisted":      "Assisted",
+    "lscs":          "LSCS",         # <- ADDED
+    "lower segment caesarean": "LSCS"
+  },
+  "term": {
+    "term":          "Term",
+    "full-term":     "Term",
+    "full term":     "Term",
+    "at term":       "Term",
+    "delivered at term": "Term",     # <- ADDED
+    "preterm":       "Preterm",
+    "premature":     "Preterm",
+    "premature birth":"Preterm",
+    "preemie":       "Preterm",
+    "premo":         "Preterm",
+  },
+  "cried_at_birth": {
+    "cried":             "Yes",
+    "cried immediately": "Yes",
+    "cried vigorously":  "Yes",
+    "did not cry":       "No",
+    "didn't cry":        "No",
+    "failed to cry":     "No",
+    "no cry":            "No",
+    "apgar 0":           "No",
+  }
+}
