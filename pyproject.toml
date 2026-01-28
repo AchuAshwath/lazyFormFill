@@ -1,5 +1,5 @@
 [project]
-name = "lazyFormFill"
+name = "lazy-form-fill"
 version = "0.1.0"
 description = "Medical Birth History Extraction System - Automated extraction of birth history data from audio recordings and clinical text"
 readme = "README.md"
