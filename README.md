@@ -5,6 +5,15 @@
 
 An intelligent NLP-based system for extracting structured birth history information from clinical audio recordings and text documents. This project combines speech-to-text technology with advanced natural language processing to automatically extract medical information such as delivery mode, conception method, birth weight, and other critical birth history fields.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get up and running in 5 minutes
+- **[API Documentation](API.md)** - Detailed API reference
+- **[Docker Guide](docs/DOCKER.md)** - Docker deployment instructions
+- **[Contributing](CONTRIBUTING.md)** - How to contribute to the project
+- **[Changelog](CHANGELOG.md)** - Version history and changes
+- **[Examples](examples/)** - Working code examples
+
 ## 🎯 Overview
 
 LazyFormFill automates the extraction of birth history data from medical narratives, significantly reducing manual data entry time for healthcare professionals. The system uses:
